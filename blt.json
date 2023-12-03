@@ -7,7 +7,9 @@
       "stay": "3 days",
       "accommodation": "Boutique Hotel",
       "latitude": 31.6295,
-      "longitude": -7.9811
+      "longitude": -7.9811,
+      "description": "Experience the enchanting allure of Marrakesh, where ancient traditions meet modern luxury. Lose yourself in the vibrant colors and exotic aromas of the bustling souks. Discover the historic Jardin Majorelle, an oasis of serenity. Unwind in the comfort of a carefully selected boutique hotel, where each detail reflects the city's rich cultural tapestry.",
+      "image_url": "https://images.unsplash.com/photo-1536237717235-0acadb345d8c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "London, United Kingdom",
@@ -16,7 +18,9 @@
       "stay": "3 days",
       "accommodation": "Bed and Breakfast",
       "latitude": 51.509865,
-      "longitude": -0.118092
+      "longitude": -0.118092,
+      "description": "Immerse yourself in the timeless elegance of London, a city where history and modernity coexist harmoniously. Explore iconic landmarks such as the Tower Bridge and Buckingham Palace. Wander through the historic streets and enjoy the city's rich cultural offerings. Experience the warmth of British hospitality with a cozy stay at a charming bed and breakfast, adding a touch of homeliness to your London adventure.",
+      "image_url": "https://images.unsplash.com/photo-1598710877888-edaa20acfb92?q=80&w=1762&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Edinburgh, Scotland",
@@ -25,7 +29,9 @@
       "stay": "3 days",
       "accommodation": "Guesthouse",
       "latitude": 55.9533,
-      "longitude": -3.1883
+      "longitude": -3.1883,
+      "description": "Step into the fairytale beauty of Edinburgh, where medieval architecture meets natural splendor. Visit the iconic Edinburgh Castle perched atop Castle Rock and stroll along the Royal Mile. Immerse yourself in the city's rich history and cultural heritage. Rest in comfort at a welcoming guesthouse, offering a taste of Scottish hospitality amidst the enchanting landscapes.",
+      "image_url": "https://images.unsplash.com/photo-1595599014147-a419c147bdc0?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Moscow, Russia",
@@ -34,7 +40,9 @@
       "stay": "3 days",
       "accommodation": "City Center Hotel",
       "latitude": 55.7558,
-      "longitude": 37.6176
+      "longitude": 37.6176,
+      "description": "Embark on a journey to Moscow, where the grandeur of historical landmarks meets the energy of a modern metropolis. Explore the iconic Red Square, gaze upon the magnificent domes of St. Basil's Cathedral, and delve into the rich history of the Kremlin. Stay in the heart of the city at a stylish city center hotel, where the spirit of Moscow surrounds you.",
+      "image_url": "https://images.unsplash.com/photo-1635172298210-b8891ba8f53f?q=80&w=1772&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Dubai, UAE",
@@ -43,7 +51,9 @@
       "stay": "3 days",
       "accommodation": "Luxury Resort",
       "latitude": 25.276987,
-      "longitude": 55.296249
+      "longitude": 55.296249,
+      "description": "Indulge in the opulence of Dubai, where modern extravagance meets Arabian hospitality. Marvel at the futuristic skyline, shop in luxurious malls, and experience the unique blend of tradition and modernity. Retreat to a breathtaking luxury resort, where every moment is a celebration of the city's glamour and sophistication.",
+      "image_url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Los Angeles, USA",
@@ -52,7 +62,9 @@
       "stay": "3 days",
       "accommodation": "Boutique Hotel",
       "latitude": 34.0522,
-      "longitude": -118.2437
+      "longitude": -118.2437,
+      "description": "Immerse yourself in the glamour of Los Angeles, the entertainment capital of the world. From the Hollywood Walk of Fame to the sun-soaked beaches of Santa Monica, experience the vibrant energy of this iconic city. Unwind in style at a chic boutique hotel, where luxury and comfort create the perfect Hollywood getaway.",
+      "image_url": "https://images.unsplash.com/photo-1580655653885-65763b2597d0?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "New York, USA",
@@ -61,7 +73,9 @@
       "stay": "3 days",
       "accommodation": "Midtown Apartment",
       "latitude": 40.7128,
-      "longitude": -74.0060
+      "longitude": -74.0060,
+      "description": "Experience the heartbeat of the city that never sleeps—New York. From the dazzling lights of Times Square to the tranquility of Central Park, immerse yourself in the iconic landmarks of Manhattan. Enjoy the comfort of a stylish midtown apartment, offering a home away from home in the midst of the bustling cityscape.",
+      "image_url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Machu Picchu, Peru",
@@ -70,7 +84,9 @@
       "stay": "10 days",
       "accommodation": "Lodge in the Mountains",
       "latitude": -13.1631,
-      "longitude": -72.5450
+      "longitude": -72.5450,
+      "description": "Embark on a mystical journey to Machu Picchu, the ancient Incan citadel nestled in the Andes. Trek through breathtaking landscapes, uncovering the secrets of Incan ruins along the way. Find tranquility in a mountain lodge surrounded by the awe-inspiring beauty of the Andean peaks, where each moment is a testament to the rich history and natural wonders of Peru.",
+      "image_url": "https://images.unsplash.com/photo-1543385426-191664295b58?q=80&w=1895&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Cape Town, South Africa",
@@ -79,7 +95,9 @@
       "stay": "3 days",
       "accommodation": "Waterfront Hotel",
       "latitude": -33.918861,
-      "longitude": 18.423300
+      "longitude": 18.423300,
+      "description": "Discover the captivating beauty of Cape Town, where the majestic Table Mountain meets the azure waters of the Atlantic Ocean. Explore the vibrant neighborhoods, from the historic Bo-Kaap to the trendy Waterfront. Rest in comfort at a waterfront hotel, where the views are as spectacular as the experiences that await you.",
+      "image_url": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Singapore",
@@ -88,7 +106,9 @@
       "stay": "14 days",
       "accommodation": "Luxury Hotel",
       "latitude": 1.3521,
-      "longitude": 103.8198
+      "longitude": 103.8198,
+      "description": "Embark on a sensory journey in Singapore, where modernity meets tradition in a harmonious blend. Indulge in a gastronomic adventure at hawker centers, explore futuristic gardens, and soak in the vibrant atmosphere. Luxuriate in a 14-day stay at a prestigious hotel, where the city's skyline becomes your daily backdrop.",
+      "image_url": "https://images.unsplash.com/flagged/photo-1562503542-2a1e6f03b16b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Hong Kong",
@@ -97,7 +117,9 @@
       "stay": "3 days",
       "accommodation": "Central District Airbnb",
       "latitude": 22.3964,
-      "longitude": 114.1095
+      "longitude": 114.1095,
+      "description": "Immerse yourself in the dynamic energy of Hong Kong, where East meets West in a captivating fusion. Explore the bustling streets of Central District, savor authentic dim sum, and gaze upon the iconic skyline from Victoria Peak. Enjoy the comforts of a centrally located Airbnb, offering a unique perspective on this vibrant metropolis.",
+      "image_url": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?q=80&w=1856&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Tokyo, Japan",
@@ -106,7 +128,9 @@
       "stay": "3 days",
       "accommodation": "Ryokan Experience",
       "latitude": 35.6895,
-      "longitude": 139.6917
+      "longitude": 139.6917,
+      "description": "Discover the juxtaposition of tradition and modernity in Tokyo, a city where ancient temples coexist with cutting-edge technology. Immerse yourself in the sensory delights of bustling markets and serene gardens. Experience the authenticity of Japanese culture with a stay at a traditional Ryokan, where each moment is a blend of past and present.",
+      "image_url": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Barcelona, Spain",
@@ -115,7 +139,9 @@
       "stay": "3 days",
       "accommodation": "Historic Guesthouse",
       "latitude": 41.3851,
-      "longitude": 2.1734
+      "longitude": 2.1734,
+      "description": "Bask in the architectural wonders of Barcelona, where the surreal designs of Gaudí blend seamlessly with Gothic treasures. Wander through the lively streets of La Rambla, indulge in authentic tapas, and marvel at the Sagrada Familia. Find comfort in a historic guesthouse, where the charm of Spanish hospitality awaits you.",
+      "image_url": "https://images.unsplash.com/photo-1595954421407-ad5e012b25e5?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Florence, Italy",
@@ -124,7 +150,9 @@
       "stay": "17 days",
       "accommodation": "Tuscan Villa",
       "latitude": 43.7696,
-      "longitude": 11.2558
+      "longitude": 11.2558,
+      "description": "Embark on a cultural odyssey in Florence, the birthplace of the Renaissance. Admire masterpieces in the Uffizi Gallery, stroll across the iconic Ponte Vecchio, and savor authentic gelato in Piazza della Signoria. Immerse yourself in the essence of Tuscany with a 17-day stay in a charming Tuscan villa, surrounded by rolling hills and vineyards.",
+      "image_url": "https://images.unsplash.com/photo-1581951756710-084ff9f7b0ca?q=80&w=1773&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Rome, Italy",
@@ -133,7 +161,9 @@
       "stay": "3 days",
       "accommodation": "Boutique Hotel",
       "latitude": 41.9028,
-      "longitude": 12.4964
+      "longitude": 12.4964,
+      "description": "Experience the eternal allure of Rome, where ancient history and modern life intertwine. Marvel at the Colosseum, toss a coin in the Trevi Fountain, and savor authentic pasta in Trastevere. Unwind in the heart of the city at a boutique hotel, offering a stylish retreat amid the timeless beauty of the Italian capital.",
+      "image_url": "https://images.unsplash.com/photo-1542820229-081e0c12af0b?q=80&w=1773&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "city": "Valletta, Malta",
@@ -142,7 +172,9 @@
       "stay": "3 days",
       "accommodation": "Old Town Apartment",
       "latitude": 35.8989,
-      "longitude": 14.5146
+      "longitude": 14.5146,
+      "description": "Discover the historic charm of Valletta, the UNESCO World Heritage city perched on the shores of Malta. Wander through narrow streets lined with Baroque architecture, explore ancient forts, and enjoy panoramic views of the Grand Harbour. Immerse yourself in the culture with a 3-day stay in a carefully selected old town apartment, where every corner tells a story of Malta's rich past.",
+      "image_url": "https://images.unsplash.com/photo-1584348059301-bb1d44173050?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
