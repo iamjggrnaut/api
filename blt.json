@@ -5,112 +5,144 @@
       "date": "May 1, 2024",
       "mode_of_travel": "Flight",
       "stay": "3 days",
-      "accommodation": "Boutique Hotel"
+      "accommodation": "Boutique Hotel",
+      "latitude": 31.6295,
+      "longitude": -7.9811
     },
     {
       "city": "London, United Kingdom",
       "date": "May 4, 2024",
       "mode_of_travel": "Train",
       "stay": "3 days",
-      "accommodation": "Bed and Breakfast"
+      "accommodation": "Bed and Breakfast",
+      "latitude": 51.509865,
+      "longitude": -0.118092
     },
     {
       "city": "Edinburgh, Scotland",
       "date": "May 7, 2024",
       "mode_of_travel": "Bus",
       "stay": "3 days",
-      "accommodation": "Guesthouse"
+      "accommodation": "Guesthouse",
+      "latitude": 55.9533,
+      "longitude": -3.1883
     },
     {
       "city": "Moscow, Russia",
       "date": "May 10, 2024",
       "mode_of_travel": "Flight",
       "stay": "3 days",
-      "accommodation": "City Center Hotel"
+      "accommodation": "City Center Hotel",
+      "latitude": 55.7558,
+      "longitude": 37.6176
     },
     {
       "city": "Dubai, UAE",
       "date": "May 13, 2024",
       "mode_of_travel": "Flight",
       "stay": "3 days",
-      "accommodation": "Luxury Resort"
+      "accommodation": "Luxury Resort",
+      "latitude": 25.276987,
+      "longitude": 55.296249
     },
     {
       "city": "Los Angeles, USA",
       "date": "May 16, 2024",
       "mode_of_travel": "Flight",
       "stay": "3 days",
-      "accommodation": "Boutique Hotel"
+      "accommodation": "Boutique Hotel",
+      "latitude": 34.0522,
+      "longitude": -118.2437
     },
     {
       "city": "New York, USA",
       "date": "May 19, 2024",
       "mode_of_travel": "Flight",
       "stay": "3 days",
-      "accommodation": "Midtown Apartment"
+      "accommodation": "Midtown Apartment",
+      "latitude": 40.7128,
+      "longitude": -74.0060
     },
     {
       "city": "Machu Picchu, Peru",
       "date": "May 22, 2024",
       "mode_of_travel": "Train and Hiking",
       "stay": "10 days",
-      "accommodation": "Lodge in the Mountains"
+      "accommodation": "Lodge in the Mountains",
+      "latitude": -13.1631,
+      "longitude": -72.5450
     },
     {
       "city": "Cape Town, South Africa",
       "date": "June 4, 2024",
       "mode_of_travel": "Flight",
       "stay": "3 days",
-      "accommodation": "Waterfront Hotel"
+      "accommodation": "Waterfront Hotel",
+      "latitude": -33.918861,
+      "longitude": 18.423300
     },
     {
       "city": "Singapore",
       "date": "June 7, 2024",
       "mode_of_travel": "Flight",
       "stay": "14 days",
-      "accommodation": "Luxury Hotel"
+      "accommodation": "Luxury Hotel",
+      "latitude": 1.3521,
+      "longitude": 103.8198
     },
     {
       "city": "Hong Kong",
       "date": "June 23, 2024",
       "mode_of_travel": "Flight",
       "stay": "3 days",
-      "accommodation": "Central District Airbnb"
+      "accommodation": "Central District Airbnb",
+      "latitude": 22.3964,
+      "longitude": 114.1095
     },
     {
       "city": "Tokyo, Japan",
       "date": "June 26, 2024",
       "mode_of_travel": "Flight",
       "stay": "3 days",
-      "accommodation": "Ryokan Experience"
+      "accommodation": "Ryokan Experience",
+      "latitude": 35.6895,
+      "longitude": 139.6917
     },
     {
       "city": "Barcelona, Spain",
       "date": "June 29, 2024",
       "mode_of_travel": "Flight",
       "stay": "3 days",
-      "accommodation": "Historic Guesthouse"
+      "accommodation": "Historic Guesthouse",
+      "latitude": 41.3851,
+      "longitude": 2.1734
     },
     {
       "city": "Florence, Italy",
       "date": "July 6, 2024",
       "mode_of_travel": "Train",
       "stay": "17 days",
-      "accommodation": "Tuscan Villa"
+      "accommodation": "Tuscan Villa",
+      "latitude": 43.7696,
+      "longitude": 11.2558
     },
     {
       "city": "Rome, Italy",
       "date": "July 25, 2024",
       "mode_of_travel": "Train",
       "stay": "3 days",
-      "accommodation": "Boutique Hotel"
+      "accommodation": "Boutique Hotel",
+      "latitude": 41.9028,
+      "longitude": 12.4964
     },
     {
       "city": "Valletta, Malta",
       "date": "July 28, 2024",
       "mode_of_travel": "Flight",
       "stay": "3 days",
-      "accommodation": "Old Town Apartment"
+      "accommodation": "Old Town Apartment",
+      "latitude": 35.8989,
+      "longitude": 14.5146
     }
   ]
 }
