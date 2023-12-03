@@ -1,0 +1,116 @@
+{
+  "destinations": [
+    {
+      "city": "Marrakesh, Morocco",
+      "date": "May 1, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "3 days",
+      "accommodation": "Boutique Hotel"
+    },
+    {
+      "city": "London, United Kingdom",
+      "date": "May 4, 2024",
+      "mode_of_travel": "Train",
+      "stay": "3 days",
+      "accommodation": "Bed and Breakfast"
+    },
+    {
+      "city": "Edinburgh, Scotland",
+      "date": "May 7, 2024",
+      "mode_of_travel": "Bus",
+      "stay": "3 days",
+      "accommodation": "Guesthouse"
+    },
+    {
+      "city": "Moscow, Russia",
+      "date": "May 10, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "3 days",
+      "accommodation": "City Center Hotel"
+    },
+    {
+      "city": "Dubai, UAE",
+      "date": "May 13, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "3 days",
+      "accommodation": "Luxury Resort"
+    },
+    {
+      "city": "Los Angeles, USA",
+      "date": "May 16, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "3 days",
+      "accommodation": "Boutique Hotel"
+    },
+    {
+      "city": "New York, USA",
+      "date": "May 19, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "3 days",
+      "accommodation": "Midtown Apartment"
+    },
+    {
+      "city": "Machu Picchu, Peru",
+      "date": "May 22, 2024",
+      "mode_of_travel": "Train and Hiking",
+      "stay": "10 days",
+      "accommodation": "Lodge in the Mountains"
+    },
+    {
+      "city": "Cape Town, South Africa",
+      "date": "June 4, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "3 days",
+      "accommodation": "Waterfront Hotel"
+    },
+    {
+      "city": "Singapore",
+      "date": "June 7, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "14 days",
+      "accommodation": "Luxury Hotel"
+    },
+    {
+      "city": "Hong Kong",
+      "date": "June 23, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "3 days",
+      "accommodation": "Central District Airbnb"
+    },
+    {
+      "city": "Tokyo, Japan",
+      "date": "June 26, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "3 days",
+      "accommodation": "Ryokan Experience"
+    },
+    {
+      "city": "Barcelona, Spain",
+      "date": "June 29, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "3 days",
+      "accommodation": "Historic Guesthouse"
+    },
+    {
+      "city": "Florence, Italy",
+      "date": "July 6, 2024",
+      "mode_of_travel": "Train",
+      "stay": "17 days",
+      "accommodation": "Tuscan Villa"
+    },
+    {
+      "city": "Rome, Italy",
+      "date": "July 25, 2024",
+      "mode_of_travel": "Train",
+      "stay": "3 days",
+      "accommodation": "Boutique Hotel"
+    },
+    {
+      "city": "Valletta, Malta",
+      "date": "July 28, 2024",
+      "mode_of_travel": "Flight",
+      "stay": "3 days",
+      "accommodation": "Old Town Apartment"
+    }
+  ]
+}
